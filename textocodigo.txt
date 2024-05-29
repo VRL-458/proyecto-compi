@@ -1,0 +1,6 @@
+SI (i == 0) //hola
+	z = 0 //gato
+ENTONCES /*
+here */
+	z=1
+	A="HOLa"
